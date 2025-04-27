@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SchwarzAdler1
+- 👋 Hi, I’m Naeem-Ur-Rehman
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java Script
-- 💞️ I’m looking to collaborate on Java Script,Html,Css
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python,Html,Css
 - 📫 How to reach me 
 - 😄 Pronouns: 
 - ⚡ Fun fact: 
